@@ -13,7 +13,5 @@ var subtractProductAndSum = function(n) {
         n=Math.floor(n/10);
     }
 
-    let result = product - sum;
-    return result;
-
+    return (product - sum);
 };
