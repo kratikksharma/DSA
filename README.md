@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kratikksharma/DSA/tree/master/0070-climbing-stairs) |
+| [2235-add-two-integers](https://github.com/kratikksharma/DSA/tree/master/2235-add-two-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
