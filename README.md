@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/kratikksharma/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kratikksharma/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0075-sort-colors](https://github.com/kratikksharma/DSA/tree/master/0075-sort-colors) |
+| [0496-next-greater-element-i](https://github.com/kratikksharma/DSA/tree/master/0496-next-greater-element-i) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kratikksharma/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1480-running-sum-of-1d-array](https://github.com/kratikksharma/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/kratikksharma/DSA/tree/master/1512-number-of-good-pairs) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/kratikksharma/DSA/tree/master/0496-next-greater-element-i) |
 | [1512-number-of-good-pairs](https://github.com/kratikksharma/DSA/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |
@@ -91,4 +93,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/kratikksharma/DSA/tree/master/0075-sort-colors) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/kratikksharma/DSA/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/kratikksharma/DSA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
