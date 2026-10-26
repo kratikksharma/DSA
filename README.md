@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kratikksharma/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/kratikksharma/DSA/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/kratikksharma/DSA/tree/master/0189-rotate-array) |
+| [0344-reverse-string](https://github.com/kratikksharma/DSA/tree/master/0344-reverse-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/kratikksharma/DSA/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kratikksharma/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/kratikksharma/DSA/tree/master/0058-length-of-last-word) |
+| [0344-reverse-string](https://github.com/kratikksharma/DSA/tree/master/0344-reverse-string) |
 ## Trie
 |  |
 | ------- |
