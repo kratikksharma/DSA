@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/kratikksharma/DSA/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/kratikksharma/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/kratikksharma/DSA/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/kratikksharma/DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/kratikksharma/DSA/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/kratikksharma/DSA/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/kratikksharma/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/kratikksharma/DSA/tree/master/0231-power-of-two) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kratikksharma/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Prefix Sum
 |  |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/kratikksharma/DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/kratikksharma/DSA/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/kratikksharma/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
