@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/kratikksharma/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/kratikksharma/DSA/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kratikksharma/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0136-single-number](https://github.com/kratikksharma/DSA/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/kratikksharma/DSA/tree/master/0189-rotate-array) |
 | [0496-next-greater-element-i](https://github.com/kratikksharma/DSA/tree/master/0496-next-greater-element-i) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kratikksharma/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/kratikksharma/DSA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/kratikksharma/DSA/tree/master/0231-power-of-two) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kratikksharma/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Prefix Sum
