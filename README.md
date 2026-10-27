@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/kratikksharma/DSA/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/kratikksharma/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/kratikksharma/DSA/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/kratikksharma/DSA/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/kratikksharma/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/kratikksharma/DSA/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/kratikksharma/DSA/tree/master/0263-ugly-number) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kratikksharma/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/kratikksharma/DSA/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/kratikksharma/DSA/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/kratikksharma/DSA/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/kratikksharma/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kratikksharma/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 ## Binary Search
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/kratikksharma/DSA/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/kratikksharma/DSA/tree/master/0202-happy-number) |
 | [0496-next-greater-element-i](https://github.com/kratikksharma/DSA/tree/master/0496-next-greater-element-i) |
 | [1512-number-of-good-pairs](https://github.com/kratikksharma/DSA/tree/master/1512-number-of-good-pairs) |
 ## Counting
@@ -171,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kratikksharma/DSA/tree/master/0020-valid-parentheses) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/kratikksharma/DSA/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
