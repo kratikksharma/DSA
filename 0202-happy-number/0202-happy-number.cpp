@@ -1,0 +1,22 @@
+class Solution {
+public:
+    bool Happy(int n){
+        if(n==1){
+            return true;
+        }
+        if(n==4){
+            return false;
+        }
+        int sum = 0;
+        while (n > 0) {
+            int temp = n % 10;
+            sum += temp * temp;
+            n = n / 10;
+        }
+        return Happy(sum);
+    }
+    int isHappy(int n){
+        
+        return Happy(n);
+    }
+};
