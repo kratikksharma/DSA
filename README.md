@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/kratikksharma/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kratikksharma/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/kratikksharma/DSA/tree/master/1512-number-of-good-pairs) |
+| [1518-water-bottles](https://github.com/kratikksharma/DSA/tree/master/1518-water-bottles) |
 | [2235-add-two-integers](https://github.com/kratikksharma/DSA/tree/master/2235-add-two-integers) |
 ## Dynamic Programming
 |  |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/kratikksharma/DSA/tree/master/0258-add-digits) |
+| [1518-water-bottles](https://github.com/kratikksharma/DSA/tree/master/1518-water-bottles) |
 ## Number Theory
 |  |
 | ------- |
