@@ -8,6 +8,7 @@ public:
         subset(nums, idx + 1, curr, ans);
         curr.push_back(nums[idx]);
         subset(nums, idx + 1, curr, ans);
+        curr.pop_back();
     }
     vector<vector<int>> subsets(vector<int>& nums) {
         vector<vector<int>> ans;
