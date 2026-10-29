@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/kratikksharma/DSA/tree/master/1512-number-of-good-pairs) |
 | [1518-water-bottles](https://github.com/kratikksharma/DSA/tree/master/1518-water-bottles) |
 | [2235-add-two-integers](https://github.com/kratikksharma/DSA/tree/master/2235-add-two-integers) |
+| [2965-find-missing-and-repeated-values](https://github.com/kratikksharma/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/kratikksharma/DSA/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/kratikksharma/DSA/tree/master/1672-richest-customer-wealth) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/kratikksharma/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2965-find-missing-and-repeated-values](https://github.com/kratikksharma/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/kratikksharma/DSA/tree/master/0202-happy-number) |
 | [0496-next-greater-element-i](https://github.com/kratikksharma/DSA/tree/master/0496-next-greater-element-i) |
 | [1512-number-of-good-pairs](https://github.com/kratikksharma/DSA/tree/master/1512-number-of-good-pairs) |
+| [2965-find-missing-and-repeated-values](https://github.com/kratikksharma/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Counting
 |  |
 | ------- |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/kratikksharma/DSA/tree/master/1672-richest-customer-wealth) |
+| [2965-find-missing-and-repeated-values](https://github.com/kratikksharma/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## String
 |  |
 | ------- |
