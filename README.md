@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/kratikksharma/DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/kratikksharma/DSA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/kratikksharma/DSA/tree/master/0231-power-of-two) |
+| [0784-letter-case-permutation](https://github.com/kratikksharma/DSA/tree/master/0784-letter-case-permutation) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kratikksharma/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Prefix Sum
 |  |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/kratikksharma/DSA/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/kratikksharma/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kratikksharma/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0784-letter-case-permutation](https://github.com/kratikksharma/DSA/tree/master/0784-letter-case-permutation) |
 ## Trie
 |  |
 | ------- |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/kratikksharma/DSA/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/kratikksharma/DSA/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/kratikksharma/DSA/tree/master/0078-subsets) |
+| [0784-letter-case-permutation](https://github.com/kratikksharma/DSA/tree/master/0784-letter-case-permutation) |
 ## Algorithm X
 |  |
 | ------- |
