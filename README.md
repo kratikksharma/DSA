@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/kratikksharma/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kratikksharma/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/kratikksharma/DSA/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/kratikksharma/DSA/tree/master/0036-valid-sudoku) |
 | [0051-n-queens](https://github.com/kratikksharma/DSA/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/kratikksharma/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/kratikksharma/DSA/tree/master/0075-sort-colors) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/kratikksharma/DSA/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/kratikksharma/DSA/tree/master/0036-valid-sudoku) |
 | [0202-happy-number](https://github.com/kratikksharma/DSA/tree/master/0202-happy-number) |
 | [0496-next-greater-element-i](https://github.com/kratikksharma/DSA/tree/master/0496-next-greater-element-i) |
 | [1512-number-of-good-pairs](https://github.com/kratikksharma/DSA/tree/master/1512-number-of-good-pairs) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/kratikksharma/DSA/tree/master/0036-valid-sudoku) |
 | [0200-number-of-islands](https://github.com/kratikksharma/DSA/tree/master/0200-number-of-islands) |
 | [1672-richest-customer-wealth](https://github.com/kratikksharma/DSA/tree/master/1672-richest-customer-wealth) |
 | [2965-find-missing-and-repeated-values](https://github.com/kratikksharma/DSA/tree/master/2965-find-missing-and-repeated-values) |
