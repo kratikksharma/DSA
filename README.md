@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kratikksharma/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/kratikksharma/DSA/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/kratikksharma/DSA/tree/master/0036-valid-sudoku) |
+| [0040-combination-sum-ii](https://github.com/kratikksharma/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/kratikksharma/DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/kratikksharma/DSA/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/kratikksharma/DSA/tree/master/0066-plus-one) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/kratikksharma/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/kratikksharma/DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/kratikksharma/DSA/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/kratikksharma/DSA/tree/master/0052-n-queens-ii) |
