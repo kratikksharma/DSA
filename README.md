@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/kratikksharma/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/kratikksharma/DSA/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/kratikksharma/DSA/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/kratikksharma/DSA/tree/master/0264-ugly-number-ii) |
 | [0326-power-of-three](https://github.com/kratikksharma/DSA/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/kratikksharma/DSA/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/kratikksharma/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/kratikksharma/DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kratikksharma/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0264-ugly-number-ii](https://github.com/kratikksharma/DSA/tree/master/0264-ugly-number-ii) |
 | [0509-fibonacci-number](https://github.com/kratikksharma/DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/kratikksharma/DSA/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/kratikksharma/DSA/tree/master/0036-valid-sudoku) |
 | [0202-happy-number](https://github.com/kratikksharma/DSA/tree/master/0202-happy-number) |
+| [0264-ugly-number-ii](https://github.com/kratikksharma/DSA/tree/master/0264-ugly-number-ii) |
 | [0496-next-greater-element-i](https://github.com/kratikksharma/DSA/tree/master/0496-next-greater-element-i) |
 | [1512-number-of-good-pairs](https://github.com/kratikksharma/DSA/tree/master/1512-number-of-good-pairs) |
 | [2965-find-missing-and-repeated-values](https://github.com/kratikksharma/DSA/tree/master/2965-find-missing-and-repeated-values) |
@@ -230,4 +233,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/kratikksharma/DSA/tree/master/0200-number-of-islands) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/kratikksharma/DSA/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->
