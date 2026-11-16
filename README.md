@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/kratikksharma/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/kratikksharma/DSA/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/kratikksharma/DSA/tree/master/1672-richest-customer-wealth) |
+| [2073-time-needed-to-buy-tickets](https://github.com/kratikksharma/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/kratikksharma/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2965-find-missing-and-repeated-values](https://github.com/kratikksharma/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/kratikksharma/DSA/tree/master/0258-add-digits) |
 | [1518-water-bottles](https://github.com/kratikksharma/DSA/tree/master/1518-water-bottles) |
+| [2073-time-needed-to-buy-tickets](https://github.com/kratikksharma/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 ## Number Theory
 |  |
 | ------- |
@@ -240,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/kratikksharma/DSA/tree/master/0264-ugly-number-ii) |
+## Queue
+|  |
+| ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/kratikksharma/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
