@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/kratikksharma/DSA/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/kratikksharma/DSA/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/kratikksharma/DSA/tree/master/0200-number-of-islands) |
+| [0239-sliding-window-maximum](https://github.com/kratikksharma/DSA/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/kratikksharma/DSA/tree/master/0496-next-greater-element-i) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kratikksharma/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1480-running-sum-of-1d-array](https://github.com/kratikksharma/DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/kratikksharma/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/kratikksharma/DSA/tree/master/0239-sliding-window-maximum) |
 ## String Matching
 |  |
 | ------- |
@@ -241,9 +243,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/kratikksharma/DSA/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/kratikksharma/DSA/tree/master/0264-ugly-number-ii) |
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/kratikksharma/DSA/tree/master/0239-sliding-window-maximum) |
 | [2073-time-needed-to-buy-tickets](https://github.com/kratikksharma/DSA/tree/master/2073-time-needed-to-buy-tickets) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/kratikksharma/DSA/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/kratikksharma/DSA/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
