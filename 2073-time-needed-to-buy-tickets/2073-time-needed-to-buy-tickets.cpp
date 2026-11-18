@@ -7,7 +7,7 @@ public:
                 if (tickets[i] > 0) {
                     tickets[i]--;
                     ans++;
-                    if(tickets[k]==0){
+                    if (tickets[k] == 0) {
                         break;
                     }
                 }
