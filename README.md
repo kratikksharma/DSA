@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/kratikksharma/DSA/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/kratikksharma/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kratikksharma/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0649-dota2-senate](https://github.com/kratikksharma/DSA/tree/master/0649-dota2-senate) |
 | [0784-letter-case-permutation](https://github.com/kratikksharma/DSA/tree/master/0784-letter-case-permutation) |
 ## Trie
 |  |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/kratikksharma/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0239-sliding-window-maximum](https://github.com/kratikksharma/DSA/tree/master/0239-sliding-window-maximum) |
+| [0649-dota2-senate](https://github.com/kratikksharma/DSA/tree/master/0649-dota2-senate) |
 | [2073-time-needed-to-buy-tickets](https://github.com/kratikksharma/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 ## Sliding Window
 |  |
@@ -267,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/kratikksharma/DSA/tree/master/0225-implement-stack-using-queues) |
+## Greedy
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/kratikksharma/DSA/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
