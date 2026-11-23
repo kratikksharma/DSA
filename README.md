@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kratikksharma/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/kratikksharma/DSA/tree/master/1512-number-of-good-pairs) |
 | [1518-water-bottles](https://github.com/kratikksharma/DSA/tree/master/1518-water-bottles) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/kratikksharma/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2235-add-two-integers](https://github.com/kratikksharma/DSA/tree/master/2235-add-two-integers) |
 | [2965-find-missing-and-repeated-values](https://github.com/kratikksharma/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Dynamic Programming
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/kratikksharma/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/kratikksharma/DSA/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/kratikksharma/DSA/tree/master/1672-richest-customer-wealth) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/kratikksharma/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/kratikksharma/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/kratikksharma/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2965-find-missing-and-repeated-values](https://github.com/kratikksharma/DSA/tree/master/2965-find-missing-and-repeated-values) |
@@ -200,11 +202,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/kratikksharma/DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/kratikksharma/DSA/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/kratikksharma/DSA/tree/master/0509-fibonacci-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/kratikksharma/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Simulation
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/kratikksharma/DSA/tree/master/0258-add-digits) |
 | [1518-water-bottles](https://github.com/kratikksharma/DSA/tree/master/1518-water-bottles) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/kratikksharma/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/kratikksharma/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 ## Number Theory
 |  |
@@ -257,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/kratikksharma/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0239-sliding-window-maximum](https://github.com/kratikksharma/DSA/tree/master/0239-sliding-window-maximum) |
 | [0649-dota2-senate](https://github.com/kratikksharma/DSA/tree/master/0649-dota2-senate) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/kratikksharma/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/kratikksharma/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 ## Sliding Window
 |  |
