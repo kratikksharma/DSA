@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/kratikksharma/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0649-dota2-senate](https://github.com/kratikksharma/DSA/tree/master/0649-dota2-senate) |
 | [0784-letter-case-permutation](https://github.com/kratikksharma/DSA/tree/master/0784-letter-case-permutation) |
+| [0796-rotate-string](https://github.com/kratikksharma/DSA/tree/master/0796-rotate-string) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/kratikksharma/DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Trie
 |  |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kratikksharma/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/kratikksharma/DSA/tree/master/0796-rotate-string) |
 ## Z Algorithm
 |  |
 | ------- |
